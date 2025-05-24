@@ -1,0 +1,112 @@
+[
+  {
+    "transaction_id":"T0001",
+    "customer_name":"Andi",
+    "product":"Indomie Goreng",
+    "quantity":2,
+    "price":3500,
+    "total":7000,
+    "transaction_datetime":"19\/05\/2024 10:15",
+    "payment_method":"Cash",
+    "location":"Jakarta"
+  },
+  {
+    "transaction_id":"T0002",
+    "customer_name":"Budi",
+    "product":"Aqua 600ml",
+    "quantity":1,
+    "price":3000,
+    "total":3000,
+    "transaction_datetime":"2024-05-19 10:45",
+    "payment_method":"QRIS",
+    "location":"Bandung"
+  },
+  {
+    "transaction_id":"T0003",
+    "customer_name":"Siti",
+    "product":"Telur Ayam",
+    "quantity":1,
+    "price":2800,
+    "total":2800,
+    "transaction_datetime":"05-19-2024 11:01:55",
+    "payment_method":"Debit",
+    "location":"Surabaya"
+  },
+  {
+    "transaction_id":"T0004",
+    "customer_name":"Wulan",
+    "product":"Minyak Goreng",
+    "quantity":1,
+    "price":15000,
+    "total":15000,
+    "transaction_datetime":"May 19, 2024 11:10:45",
+    "payment_method":"Cash",
+    "location":"Jakarta"
+  },
+  {
+    "transaction_id":"T0005",
+    "customer_name":"Rio",
+    "product":"Beras 5kg",
+    "quantity":1,
+    "price":60000,
+    "total":60000,
+    "transaction_datetime":"2024\/05\/19 11:40:10",
+    "payment_method":"Debit",
+    "location":"Medan"
+  },
+  {
+    "transaction_id":"T0006",
+    "customer_name":"Putri",
+    "product":"Indomie Goreng",
+    "quantity":5,
+    "price":3500,
+    "total":17500,
+    "transaction_datetime":"19 May 2024 12:01",
+    "payment_method":"QRIS",
+    "location":"Bandung"
+  },
+  {
+    "transaction_id":"T0007",
+    "customer_name":"Ari",
+    "product":"Aqua 600ml",
+    "quantity":3,
+    "price":3000,
+    "total":9000,
+    "transaction_datetime":"2024.05.19 12:05:45",
+    "payment_method":"Cash",
+    "location":"Jakarta"
+  },
+  {
+    "transaction_id":"T0008",
+    "customer_name":"Nina",
+    "product":"Telur Ayam",
+    "quantity":2,
+    "price":2800,
+    "total":5600,
+    "transaction_datetime":"19th May 2024 13:15",
+    "payment_method":"Debit",
+    "location":"Surabaya"
+  },
+  {
+    "transaction_id":"T0009",
+    "customer_name":"Galih",
+    "product":"Beras 5kg",
+    "quantity":2,
+    "price":60000,
+    "total":120000,
+    "transaction_datetime":"19-05-2024 14:00",
+    "payment_method":"Cash",
+    "location":"Medan"
+  },
+  {
+    "transaction_id":"T0010",
+    "customer_name":"Indra",
+    "product":"Minyak Goreng",
+    "quantity":2,
+    "price":15000,
+    "total":30000,
+    "transaction_datetime":"2024\/5\/19 14:22:10",
+    "payment_method":"QRIS",
+    "location":"Jakarta"
+  }
+]

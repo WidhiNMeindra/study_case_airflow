@@ -1,0 +1,5 @@
+[
+  {"product_id": 101, "name": "Laptop", "price": 999.99, "in_stock": true},
+  {"product_id": 102, "name": "Mouse", "price": 19.99, "in_stock": true},
+  {"product_id": 103, "name": "Keyboard", "price": 49.99, "in_stock": false}
+]
